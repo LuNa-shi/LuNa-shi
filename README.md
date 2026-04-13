@@ -28,10 +28,10 @@ A project about **vision-language navigation**.
 It focuses on helping agents follow long instructions and complete navigation tasks better.
 
 ### 🤖 [Robotrain](https://github.com/LuNa-shi/Robotrain-embodied-ai-training-platform)
-An **embodied AI training platform** for experimenting with agent learning and system building.
+An **embodied AI training platform** for finetuning your own embodiments on the lastest models.
 
 ### 🧍 [SocialNav2](https://github.com/LuNa-shi/SocialNav2)
-A project about **social navigation**, where agents move in environments with people and interactions.
+A project about **social navigation**, where agents move in environments to avoid collision with people.
 
 ### 🚁 [DroneSimTest](https://github.com/LuNa-shi/DroneSimTest)
 A **drone simulation project** for testing control and navigation in simulated environments.
